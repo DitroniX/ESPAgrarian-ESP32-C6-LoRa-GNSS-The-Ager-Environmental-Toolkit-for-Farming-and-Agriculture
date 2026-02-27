@@ -9,7 +9,7 @@
 
 ## Overview
 
-The **ESPAgrarian** is an Electronics Community based, ESP32-C6 (2.4GHz), SX1262 LoRa and GNSS board, for Worldside support of The Ager Environmental Toolkit for Farming and Agriculture.
+The **ESPAgrarian** is an Electronics Community based, ESP32-C6 (2.4GHz), SX1262 LoRa and GNSS board, for Worldwide support of The Ager Environmental Toolkit for Farming and Agriculture.
 
 The concept is based on [ESPRanger](https://github.com/DitroniX/ESPRanger-LoRa-GNSS-GPS-IMU-RS485-60V), [ESPKnack](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN) and [AQIL](https://github.com/DitroniX/AQIL-ESP32-C6-SX1262-LoRa-Air-Quality-Monitor-IoT-Weather-Station)
 
