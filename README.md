@@ -30,6 +30,23 @@ Currently, this project is on the outline stages, with key objectives drawn up, 
 
 ## Preliminary Information and Spec to follow 
 
+- Compact Board
+- ESP32 C6 Based (but could change)
+- LoRa SX1262 Based (Possibly E22-900M22S)
+- GNSS GPS Based on ATGM336H-5N (but could change)
+- RS485 Based on CS48520AD
+- ADS1115 Sensor Input (16 bit)
+- Soil Sensor Inputs
+- Temperature Sensor Inputs
+- BME280 Temperature, Humidity and Barometric Air Pressure Sensor
+- SCD40 (400 to 2000 ppm) or SCD41 (400 to 5000ppm), CO2 Sensor.
+- SFH2440, Ambient Light Sensor
+- 5 to 60V (Max 75VDC).  So operation for a wide range of sources
+- Solar Input with Battery Charging
+- EEPROM 64K
+- Relay Output
+- Low Power
+-Type C Interface with UART
 
 ## **Further Information**
 
