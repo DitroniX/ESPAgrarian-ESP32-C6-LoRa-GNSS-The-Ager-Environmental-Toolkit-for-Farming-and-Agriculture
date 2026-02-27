@@ -18,8 +18,15 @@ The concept is based on [ESPRanger](https://github.com/DitroniX/ESPRanger-LoRa-G
 
 ## Updates
 
+-   26-02-27- Community Discussions [Opened](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture/discussions/2) 
 -   26-02-27- In Beta Initial Development 
 -   26-02-27 - Project Launched
+
+## Project Status
+
+Currently, this project is on the outline stages, with key objectives drawn up, based on feedback and these boards [ESPRanger](https://github.com/DitroniX/ESPRanger-LoRa-GNSS-GPS-IMU-RS485-60V), [ESPKnack](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN) and [AQIL](https://github.com/DitroniX/AQIL-ESP32-C6-SX1262-LoRa-Air-Quality-Monitor-IoT-Weather-Station)
+
+[https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture/discussions/2](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture/discussions/2)
 
 ## Preliminary Information and Spec to follow 
 
