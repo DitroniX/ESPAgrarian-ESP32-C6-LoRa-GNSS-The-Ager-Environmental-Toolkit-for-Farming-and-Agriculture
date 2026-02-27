@@ -3,16 +3,15 @@
 
 [![DitroniX WiKi Pages](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture-/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture-/wiki)
 
-[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/AQIL-ESP32-C6-SX1262-LoRa-Air-Quality-Monitor-IoT-Weather-Station?tab=readme-ov-file#updates)
-
-**ESPAgrarian** is an ESP32-C6 (2.4GHz), based SX1262 LoRa and GNSS board for support of The Ager Environmental Toolkit for Farming and Agriculture.
-
-![AQIL Features Preview](https://github.com/DitroniX/AQIL-ESP32-C6-SX1262-LoRa-Air-Quality-Monitor-IoT-Weather-Station/blob/main/Datasheets%20and%20Information/AQIL%20-%20Features.png)
-
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture-?tab=readme-ov-file#updates)
 
 **NEW SDK BOARD** - Availability planned for April 2026.
 
 ## Overview
+
+The **ESPAgrarian** is an Electronics Community based, ESP32-C6 (2.4GHz), SX1262 LoRa and GNSS board, for Worldside support of The Ager Environmental Toolkit for Farming and Agriculture.
+
+The concept is based on [ESPRanger](https://github.com/DitroniX/ESPRanger-LoRa-GNSS-GPS-IMU-RS485-60V), [ESPKnack](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN) and [AQIL](https://github.com/DitroniX/AQIL-ESP32-C6-SX1262-LoRa-Air-Quality-Monitor-IoT-Weather-Station)
 
 .. Watch This Space!  (*Placeholder*)
 
