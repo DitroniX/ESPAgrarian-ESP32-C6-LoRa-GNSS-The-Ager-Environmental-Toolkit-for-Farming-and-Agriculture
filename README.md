@@ -43,6 +43,7 @@ Currently, this project is on the outline stages, with key objectives drawn up, 
 - BME280 Temperature, Humidity and Barometric Air Pressure Sensor
 - SCD40 (400 to 2000 ppm) or SCD41 (400 to 5000ppm), CO2 Sensor.
 - SFH2440, Ambient Light Sensor
+- DS3231SN Accurate Real Time Clock (RTC with Battery Backup)
 - 5 to 60V (Max 75VDC).  So operation for a wide range of sources
 - Solar Input with Battery Charging
 - EEPROM 64K
