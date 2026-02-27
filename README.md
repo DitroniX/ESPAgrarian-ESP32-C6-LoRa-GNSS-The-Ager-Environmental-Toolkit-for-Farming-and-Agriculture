@@ -1,9 +1,9 @@
 # ESPAgrarian (ESP32-C6 LoRa GNSS, The Ager Environmental Toolkit for Farming and Agriculture)
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-[![DitroniX WiKi Pages](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture-/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture-/wiki)
+[![DitroniX WiKi Pages](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture-/wiki)
 
-[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture-?tab=readme-ov-file#updates)
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPAgrarian-ESP32-C6-LoRa-GNSS-The-Ager-Environmental-Toolkit-for-Farming-and-Agriculture?tab=readme-ov-file#updates)
 
 **NEW SDK BOARD** - Availability planned for April 2026.
 
